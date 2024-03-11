@@ -1,2 +1,2 @@
 # parctice
-learnig things
+learnig things, enhancing skills.
