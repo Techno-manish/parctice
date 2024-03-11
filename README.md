@@ -1,4 +1,5 @@
 # parctice
-<h1 style="color: green">learnig things, enhancing skills.</h1>
+<h1>learnig things, enhancing skills.</h1>
 <br>
-<p style="color: blue"><span style="color: violet">Author-</span> Manish Kumar</p>
+<p>Author- Manish Kumar</p>
+<p>date: 11.3.2024</p>
